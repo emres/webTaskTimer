@@ -307,7 +307,7 @@ function deleteTimeDetails() {
  */
 var webTaskTimerMenu =  new jetpack.Menu([    
     {
-	label: "Delete web task timer storace",
+	label: "Delete web task timer storage",
 	command: function () {
 	    let currentWindow = jetpack.tabs.focused.contentWindow;
 	    let confirmed = false;
