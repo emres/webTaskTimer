@@ -1,4 +1,4 @@
-# webTaskMaster: Learn how much time do you spend on which web page - an extension for Mozilla Firefox
+# webTaskTimer: Learn how much time do you spend on which web page - an extension for Mozilla Firefox
 
 This plug-in is developed using the Firefox
 [Jetpack](https://jetpack.mozillalabs.com/) technology and helps
